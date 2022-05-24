@@ -1,5 +1,8 @@
 package com.dna;
 
+/**
+ * 数组的基本使用
+ */
 public class Case01 {
     public static void main(String[] args) {
         // 创建一个数组
